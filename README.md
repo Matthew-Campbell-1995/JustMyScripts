@@ -1,4 +1,4 @@
-# JustMyScripts_mkII
+# JustMyScripts
 All of these scripts were written in C# (in Microsoft Visual Studio) for the Unity environment for game development. 
 In the Unity environment, everything is a GameObject or component thereof, and the engine automatically handles basic things such as time passing, rendering, and collision detection.
 GameObjects share a coordinate grid.
